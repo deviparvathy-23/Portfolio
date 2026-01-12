@@ -29,32 +29,6 @@ The purpose of this project is to provide recruiters and collaborators with a si
 👉 **Live Portfolio:**  
 https://deviparvathy-23.github.io/Portfolio/
 
----
-
-## 📂 Projects
-
-### Automated Exam Evaluation System
-**Description:**  
-An automated system that evaluates answer sheets efficiently, reduces manual effort, minimizes errors, and delivers fast and accurate results.
-
-**Tech Stack:**  
-- HTML  
-- CSS  
-- JavaScript  
-
----
-
-### Todo Application
-**Description:**  
-A full-stack Todo application with create, read, update, and delete (CRUD) functionality and persistent data storage.
-
-**Tech Stack:**  
-- Node.js  
-- Express.js  
-- PostgreSQL  
-- Sequelize  
-
----
 
 ## 📬 Contact
 
