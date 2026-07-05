@@ -77,7 +77,7 @@ const SKILLS = [
 
 const EXPERIENCE = [
   {
-    date: "Jun 2026",
+    date: "01 Jun 2026 -26 Jun 2026",
     role: "Academic Intern — Bytestrone India Pvt Ltd",
     detail:
       "Built the Reports AI Dashboard (Next.js + Spring Boot + Superset + LangGraph/Gemini + MCP). Fixed CSRF, guest-token auth, and a Postgres prepared-statement issue. Earlier shipped JWT + Azure AD SSO for a Talent Management system.",
