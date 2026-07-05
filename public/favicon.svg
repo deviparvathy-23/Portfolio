@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="48" height="48">
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#211F1B" stroke-width="2.5" />
+  <circle cx="50" cy="50" r="41" fill="none" stroke="#B7392E" stroke-width="1" stroke-dasharray="3 3" />
+  <text x="50" y="58" font-family="'Playfair Display', Georgia, serif" font-size="28" font-weight="bold" fill="#211F1B" text-anchor="middle" letter-spacing="1">DP</text>
+  <circle cx="68" cy="42" r="3.5" fill="#B7392E" />
+</svg>
